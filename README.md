@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoaoRampazzo-Fut/JoaoRampazzo-Fut/main/github_profile_banner.png" width="100%" alt="Banner" />
-
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Jo%C3%A3o+Pedro+Rampazzo;Fullstack+Systems+Developer;Laravel+Expert" alt="Typing SVG" />
   </h1>
