@@ -24,7 +24,7 @@ Sou um **Desenvolvedor Fullstack** focado em criar soluções eficientes e escal
 
 ---
 
-<!-- ### 🐍 My Contributions Snake
+### 🐍 My Contributions Snake
 
 <div align="center">
   <picture>
