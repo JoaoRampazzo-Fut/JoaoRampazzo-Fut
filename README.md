@@ -9,8 +9,6 @@
 Sou um **Desenvolvedor Fullstack** focado em criar soluções eficientes e escaláveis. Atualmente, atuo no ecossistema PHP (Laravel), buscando sempre transformar desafios complexos em sistemas simplificados de alta qualidade técnica.
 
 - 💼 Atualmente trabalhando em soluções para e-commerce na **FutFanatics**.
-- 🛠️ Especialista em **PHP/Laravel** e **MySQL**.
-- 🌍 Apaixonado por arquitetura de software e performance.
 
 ---
 
